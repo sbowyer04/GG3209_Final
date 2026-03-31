@@ -1,2 +1,2 @@
-# GG3209_Final
-Raw data, processed data and final code for the final GG3209 assessment
+# MCE of windfarm suitability in northern coastal Norfolk 
+Raw data, processed data and final code for the MCE 
